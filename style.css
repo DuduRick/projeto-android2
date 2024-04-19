@@ -21,14 +21,14 @@ body{
     background-color: #ebe5c5;
 }
 
-p{
+main p{
     line-height: 2em;
 }
 
 header{
     background-image: linear-gradient(to bottom, #2fa866, #063d1e);
     color: white;
-    height: 215px;
+    height: 180px;
     padding-top: 40px;
 }
 
