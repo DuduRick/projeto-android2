@@ -21,14 +21,10 @@ body{
     background-color: #ebe5c5;
 }
 
-main p{
-    line-height: 2em;
-}
-
 header{
     background-image: linear-gradient(to bottom, #2fa866, #063d1e);
     color: white;
-    height: 180px;
+    min-height: 180px;
     padding-top: 40px;
 }
 
@@ -88,6 +84,7 @@ main > p {
     text-align: justify;
     padding: 10px;
     text-indent: 30px;
+    line-height: 2em;
     
 }
 
@@ -163,6 +160,7 @@ aside{
 aside > p{
     padding: 10px;
     text-indent: 30px;
+    line-height: 2em;
 }
 
 aside > ul{
