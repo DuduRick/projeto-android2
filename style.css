@@ -123,6 +123,7 @@ h2{
 img{
     display: block;
     margin: auto;
+    width: 100%;
 }
 
 .image{
